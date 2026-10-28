@@ -54,5 +54,9 @@
 * Academic research in Machine Learning applications for Cybersecurity.
 * Safe, static extraction of Indicators of Compromise (IOCs).
 
-## 📄 License
-This project was developed in 2025. All rights reserved.
+## 👨‍💻 Author
+
+**Muhammad Hamdan**
+* BS Cyber Security Undergraduate
+* Certified LLM Security Professional (CLLMSP) & AI Security / Governance
+* Specializing in applied cryptography, machine learning malware detection, and AI-driven security systems.
