@@ -2,9 +2,13 @@
 
 **SentinAI** is a high-performance, Explainable AI (XAI) static malware analysis engine. Designed to detect malicious Portable Executables (PE) without requiring dynamic execution, SentinAI leverages Machine Learning and cryptographic analysis to provide real-time threat intelligence.
 
-![SentinAI Dashboard Demo](https://img.shields.io/badge/UI-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![UI](https://img.shields.io/badge/UI-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)
 ![AI/ML](https://img.shields.io/badge/AI-Random_Forest-F7931E?style=flat-square&logo=scikit-learn)
+
+<br/>
+
+![SentinAI Dashboard Preview](assets/dashboard.png)
 
 ## 🚀 Features
 
@@ -24,7 +28,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SentinAI.git
+   git clone https://github.com/MuhammadHamdan35/SentinAI.git
    cd SentinAI
    ```
 
